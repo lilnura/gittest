@@ -1,0 +1,2 @@
+# gittest
+Я изучаю git
